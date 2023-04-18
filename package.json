@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://angelkapv81.github.io/project-videoteka-Fork",
+  "homepage": "https://github.com/angelkapv81/project-videoteka-Fork",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project_13/"
