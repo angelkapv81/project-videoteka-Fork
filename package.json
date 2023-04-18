@@ -5,7 +5,7 @@
   "homepage": "https://github.com/angelkapv81/project-videoteka-Fork",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project_13/"
+    "build": "parcel build src/*.html --public-url /project-videoteka-Fork"
   },
   "repository": {
     "type": "git",
