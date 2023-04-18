@@ -2,7 +2,7 @@ import QueueService from './queue-service';
 import ApiService from './api-service';
 import Notiflix, { Notify } from 'notiflix';
 
-moviesForModalApi = new ApiService();
+const moviesForModalApi = new ApiService();
 
 import Notiflix, { Notify } from 'notiflix';
 
