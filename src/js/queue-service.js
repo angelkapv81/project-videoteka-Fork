@@ -51,3 +51,5 @@ export default class QueueService {
     localStorage.removeItem(QUEUE);
   }
 }
+
+//  ------------------
