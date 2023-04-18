@@ -1,7 +1,7 @@
 import ApiService from './api-service';
 const galleryConteiner = document.querySelector('.movies__list');
 
-moviesApi = new ApiService();
+const moviesApi = new ApiService();
 
 export default class MoviesMarkup {
   constructor() {
