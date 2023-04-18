@@ -4,4 +4,4 @@ import './js/api-service';
 import './js/movies';
 import './js/modal-movie';
 // import './js/watched_queue_button';
-import './js/pagination_main';
+// import './js/pagination_main';
