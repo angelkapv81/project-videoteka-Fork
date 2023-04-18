@@ -1,7 +1,7 @@
 import MoviesMarkup from './movies_markup';
 const form = document.querySelector('#search-form');
 
-cardMarkup = new MoviesMarkup();
+const cardMarkup = new MoviesMarkup();
 cardMarkup.popularMoviesMarkup();
 
 form.addEventListener('submit', onSubmit);
